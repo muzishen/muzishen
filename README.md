@@ -1,19 +1,13 @@
 ### Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=muzishen&show_icons=true" alt="logo" height="200" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-南京理工大学, 擅长图像检索, 目标检测, 语义分割, 目标跟踪
+- 🎓 NJUST
+- 📖 [**Biography**](https://muzishen.github.io/)
+- 🔭 Computer vision 
 
-### 竞赛经历
-<li> 2022/10：科大讯飞 1024 挑战赛的 2 条赛道上获得第一名
-<li> 2022/05：CVPR2022 workshop宠物生物识别挑战赛中获得第三名
-<li> 2022/05：ICME2022 workshop少镜头标识检测挑战中获得第二名
-<li> 2021/12：AIAC2021 钢铁缺陷检测挑战赛中获得第二名
-<li> 2021/12：华为云人工智能挑战赛语义分割赛道的第二名。
-<li> 2021/10：科大讯飞 1024 挑战赛的 3 条赛道上获得第一名
-<li> 2021/09：全球海洋目标智能感知挑战赛中获得第一名
-<li> 2021/09：获得华为云-东吴杯汽车零部件缺陷检测挑战赛一等奖
-<li> 2021/09：全国大学生专业新星算法挑战赛的 2 条赛道上获得第一名
-<li> 2021/06：“天池”挑战赛的语义分割中获得第三名
-<li> 2020/11: 华为Digix全球校园AI算法精英挑战赛数码图像检索，第四名
-<li> 2020/09: 2020ECCV Workshop VIPriors 目标检测第一名
+<img src="https://github-profile-trophy.vercel.app/?username=gengyanlei&theme=flat" alt="logo" height="100" align="center" style="margin: auto; margin-bottom: 20px;" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gengyanlei&layout=compact)](https://github.com/gengyanlei/github-readme-stats)
+'''
 
