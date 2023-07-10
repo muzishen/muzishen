@@ -4,6 +4,6 @@
 
 - 🎓 NJUST
 - 📖 [**Biography**](https://muzishen1.github.io/)
-- 🔭 Computer vision 
+- 🔭 Retrieval; ReID; AIGC 
 
 
