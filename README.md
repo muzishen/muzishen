@@ -4,6 +4,6 @@
 
 - 🎓 NJUST
 - 📖  [**Biography**](https://muzishen.github.io/)
-- 🔭 AIGC; Retrieval; ReID; 
+- 🔭 AIGC; Detection; Segmentation; Retrieval; ReID; 
 - :smile: I'm delighted to have you here. Feel free to explore my code and projects. Let's embark on an exciting coding journey together!
 
