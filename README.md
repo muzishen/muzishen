@@ -19,4 +19,5 @@
 - [CharacterShot](https://github.com/Jeoyal/CharacterShot): Controllable and consistent 4D character animation framework. [可控4D角色生成]
 - [StyleTailor](https://github.com/mahb-THU/StyleTailor): An Agent for personalized fashion styling. [个性化时尚Agent]
 - [SignVip](https://github.com/umnooob/signvip/): Controllable sign language video generation. [可控手语生成]
+- [Duix.Avatar](https://github.com/duixcom/Duix.Avatar): An open-source AI avatar. [私有化数字人]
 
