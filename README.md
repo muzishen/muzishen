@@ -4,7 +4,7 @@
 
 - 🎓 Research Fellow
 - 📖  [**Biography**](https://muzishen.github.io/)
-- 🔭 AIGC; Detection; Segmentation; Retrieval; ReID; 
+- 🔭 Safety; AIGC; Agent; Detection; Segmentation; Retrieval; ReID; 
 - :smile: I'm delighted to have you here. Feel free to explore my code and projects. Let's embark on an exciting coding journey together!
 
 ## 👉 **Project Guide:**  
