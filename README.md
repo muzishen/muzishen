@@ -5,7 +5,7 @@
 - 🎓 Research Fellow
 - 📖  [**Biography**](https://muzishen.github.io/)
 - 🔭 Safety; AIGC; Agent; Detection; Segmentation; Retrieval; ReID; 
-- :smile: I'm delighted to have you here. Feel free to explore my code and projects. Let's embark on an exciting coding journey together!
+- :smile: PS: I am seeking self-motivated Ph.D., M.S., and undergraduate students interested in controllable generation and multimodal safety. If interested, please email your CV to shenfei29@nus.edu.sg!
 
 ## 👉 **Project Guide:**  
 - [IMAGDressing](https://github.com/muzishen/IMAGDressing): Controllable dressing generation. [可控穿衣生成]
