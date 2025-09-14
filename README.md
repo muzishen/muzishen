@@ -4,7 +4,7 @@
 
 - 🎓 Research Fellow
 - 📖  [**Biography**](https://muzishen.github.io/)
-- 🔭 Safety; AIGC; Agent; Detection; Segmentation; Retrieval; ReID; 
+- 🔭 Large Model Safety; AIGC; Agent; Detection; Segmentation; Retrieval; ReID; 
 - :smile: PS: I am seeking self-motivated Ph.D., M.S., and undergraduate students interested in multimodal safety and controllable generation. If interested, please email your CV to shenfei29@nus.edu.sg!
 
 ## 👉 **Project Guide:**  
